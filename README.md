@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter, ML, Evolutionary Algorithms**
 
-- 📫 How to reach me **agash0912@gmail.com**
+- 📫 Reach me @ **agash0912@gmail.com**
 
 - ⚡ Fun fact **I love singing and learning about unicorn businesses**
 
