@@ -9,3 +9,7 @@
 
 - 📫 Reach me @ **agash0912@gmail.com**
 
+- ## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/agash-uthayasuriyan-8332ab210/)
+- [Portfolio](https://agash912.github.io/)
+
