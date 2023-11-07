@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently studying at **Northeastern University, Boston**
 
-- 👯 I’m looking to collaborate on **Machine learning Projects**
+- 👯 I’m working on **Machine learning Projects**
 
-- 💬 Ask me about **flutter, ML, Evolutionary Algorithms**
+- 💬 Ask me about **ML and Evolutionary Algorithms**
 
 - 📫 Reach me @ **agash0912@gmail.com**
-
-- ⚡ Fun fact **I love singing and learning about unicorn businesses**
 
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
