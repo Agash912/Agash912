@@ -4,7 +4,6 @@ I'm a student studying Information Systems at Northeastern University in Boston,
 
 ## About Me
 
-- 🏫 I'm currently a student at Northeastern University, Boston, studying Information Systems.
 - 🌱 I'm a data enthusiast and love diving into the world of machine learning.
 
 ## Get in Touch
