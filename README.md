@@ -21,6 +21,6 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ⭐ If you find my projects useful and would like to support my work, you can star some of my repositories.
 
 ## Thank You for Visiting
-
+![Profile Views](https://komarev.com/ghpvc/?username=SivaranjaniSuresj&label=Profile+Views&color=blueviolet)
 Thank you for stopping by my GitHub profile. I'm excited to connect, collaborate, and share knowledge with the GitHub community. Feel free to explore my projects and get in touch! 😄
 
