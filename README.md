@@ -4,7 +4,7 @@ I'm a student studying Information Systems at Northeastern University in Boston,
 
 ## About Me
 
-- 🌱 I'm a data enthusiast and love diving into the world of machine learning.
+- 🌱 I'm a data enthusiast and love diving into the world of Data Science, Data Engineering, and Data Analysis.
 
 ## Get in Touch
 
