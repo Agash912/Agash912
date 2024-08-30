@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agash Uthayasuriyan</h1>
 
-I'm a student studying Information Systems at Northeastern University in Boston, and I'm passionate about data and machine learning. In this GitHub profile, you'll find a collection of my open-source projects, and various experiments. Feel free to explore and contribute to any of the repositories or get in touch with me.
+I'm a Masters student studying Information Systems at Northeastern University in Boston, and I'm passionate about data and machine learning. In this GitHub profile, you'll find a collection of my open-source projects, and various experiments. Feel free to explore and contribute to any of the repositories or get in touch with me.
 
 ## About Me
 
